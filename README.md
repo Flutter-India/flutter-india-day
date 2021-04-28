@@ -1,7 +1,12 @@
 # Flutter Day India
 
- <p>
- <a href="https://flutter-india.github.io/flutter-india-day/#/">Website</a>
+<p align="center">
+<img width="800px"  src="https://i.ibb.co/2v7VYPZ/Main-Poster.png">
+</p>
+ 
+ <p align="center">
+<a href="#getting-started">:rocket:Get Started</a>
+ <a href="https://flutter-india.github.io/flutter-india-day/#/">&#127760 Website</a>
 </p>
 
 ## Overview
